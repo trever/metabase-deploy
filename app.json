@@ -21,7 +21,7 @@
       "url": "https://github.com/heroku/heroku-buildpack-jvm-common.git"
     },
     {
-      "url": "https://github.com/metabase/metabase-buildpack/tree/8c9180ada775d255ab5cbda347f67c3cc6ff48c6"
+      "url": "https://github.com/trever/metabase-buildpack"
     }
   ]
 }
